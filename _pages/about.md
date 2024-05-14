@@ -15,4 +15,4 @@ I'm a third year undergraduate student from [School of Mathematical Sciences](ht
 
 CV
 ======
-You can find my CV here: [Weihan Xue's Curriculm Vitae](../assets/WeihanXue'sCV.pdf).
+You can find my CV here: [Weihan Xue's Curriculm Vitae](../assets/CV.pdf).
